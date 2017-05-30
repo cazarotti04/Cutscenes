@@ -6,6 +6,6 @@ public class FimDeCamera : MonoBehaviour {
 
 	
 	public void CameraAcabu() {
-        CutSceneControl.instancia.ProximaCamera();
+        CutSceneController.instancia.ProximaCamera();
     }
 }
